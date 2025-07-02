@@ -1,0 +1,16 @@
+src/
+test/
+examples/
+.github/
+*.test.ts
+*.spec.ts
+tsconfig.json
+jest.config.js
+.eslintrc.js
+.prettierrc
+.prettierignore
+coverage/
+node_modules/
+.env
+.env.*
+!.env.example 
